@@ -67,6 +67,7 @@
             this.Check_B.TabIndex = 2;
             this.Check_B.Text = "Проверить";
             this.Check_B.UseVisualStyleBackColor = true;
+            this.Check_B.Click += new System.EventHandler(this.Check_B_Click);
             // 
             // WhatDoing_B
             // 
@@ -76,6 +77,7 @@
             this.WhatDoing_B.TabIndex = 3;
             this.WhatDoing_B.Text = "Что делать?";
             this.WhatDoing_B.UseVisualStyleBackColor = true;
+            this.WhatDoing_B.Click += new System.EventHandler(this.WhatDoing_B_Click);
             // 
             // Check_TB
             // 
@@ -96,10 +98,10 @@
             // 
             // WhatDoing_TB
             // 
-            this.WhatDoing_TB.Location = new System.Drawing.Point(260, 350);
+            this.WhatDoing_TB.Location = new System.Drawing.Point(260, 322);
             this.WhatDoing_TB.Multiline = true;
             this.WhatDoing_TB.Name = "WhatDoing_TB";
-            this.WhatDoing_TB.Size = new System.Drawing.Size(234, 42);
+            this.WhatDoing_TB.Size = new System.Drawing.Size(234, 70);
             this.WhatDoing_TB.TabIndex = 6;
             // 
             // Back_B
@@ -121,6 +123,7 @@
             this.NextTask_B.TabIndex = 8;
             this.NextTask_B.Text = "Следующая задача";
             this.NextTask_B.UseVisualStyleBackColor = true;
+            this.NextTask_B.Click += new System.EventHandler(this.NextTask_B_Click);
             // 
             // CountTask_L
             // 

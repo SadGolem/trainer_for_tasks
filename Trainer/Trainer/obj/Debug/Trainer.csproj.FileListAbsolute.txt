@@ -12,3 +12,44 @@ C:\Users\пк\source\repos\Trainer\Trainer\obj\Debug\Trainer.pdb
 C:\Users\пк\source\repos\Trainer\Trainer\obj\Debug\Trainer.Theory.resources
 C:\Users\пк\source\repos\Trainer\Trainer\obj\Debug\Trainer.TrainingTest.resources
 C:\Users\пк\source\repos\Trainer\Trainer\obj\Debug\Trainer.Test.resources
+C:\Users\пк\Downloads\trainer_for_tasks-main\trainer_for_tasks-main\Trainer\Trainer\bin\Debug\Trainer.exe.config
+C:\Users\пк\Downloads\trainer_for_tasks-main\trainer_for_tasks-main\Trainer\Trainer\bin\Debug\Trainer.exe
+C:\Users\пк\Downloads\trainer_for_tasks-main\trainer_for_tasks-main\Trainer\Trainer\bin\Debug\Trainer.pdb
+C:\Users\пк\Downloads\trainer_for_tasks-main\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.csproj.AssemblyReference.cache
+C:\Users\пк\Downloads\trainer_for_tasks-main\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\пк\Downloads\trainer_for_tasks-main\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.Form1.resources
+C:\Users\пк\Downloads\trainer_for_tasks-main\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.Properties.Resources.resources
+C:\Users\пк\Downloads\trainer_for_tasks-main\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.Test.resources
+C:\Users\пк\Downloads\trainer_for_tasks-main\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.Theory.resources
+C:\Users\пк\Downloads\trainer_for_tasks-main\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.TrainingTest.resources
+C:\Users\пк\Downloads\trainer_for_tasks-main\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.csproj.GenerateResource.cache
+C:\Users\пк\Downloads\trainer_for_tasks-main\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.csproj.CoreCompileInputs.cache
+C:\Users\пк\Downloads\trainer_for_tasks-main\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.exe
+C:\Users\пк\Downloads\trainer_for_tasks-main\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.pdb
+E:\projects\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.csproj.AssemblyReference.cache
+E:\projects\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.csproj.SuggestedBindingRedirects.cache
+E:\projects\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.Form1.resources
+E:\projects\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.Properties.Resources.resources
+E:\projects\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.Test.resources
+E:\projects\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.Theory.resources
+E:\projects\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.TrainingTest.resources
+E:\projects\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.csproj.GenerateResource.cache
+E:\projects\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.csproj.CoreCompileInputs.cache
+E:\projects\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.exe
+E:\projects\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.pdb
+E:\projects\trainer_for_tasks-main\Trainer\Trainer\bin\Debug\Trainer.exe.config
+E:\projects\trainer_for_tasks-main\Trainer\Trainer\bin\Debug\Trainer.exe
+E:\projects\trainer_for_tasks-main\Trainer\Trainer\bin\Debug\Trainer.pdb
+C:\Users\zma20\OneDrive\Рабочий стол\trainer_for_tasks-main\Trainer\Trainer\bin\Debug\Trainer.exe.config
+C:\Users\zma20\OneDrive\Рабочий стол\trainer_for_tasks-main\Trainer\Trainer\bin\Debug\Trainer.exe
+C:\Users\zma20\OneDrive\Рабочий стол\trainer_for_tasks-main\Trainer\Trainer\bin\Debug\Trainer.pdb
+C:\Users\zma20\OneDrive\Рабочий стол\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.csproj.AssemblyReference.cache
+C:\Users\zma20\OneDrive\Рабочий стол\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.Form1.resources
+C:\Users\zma20\OneDrive\Рабочий стол\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.Properties.Resources.resources
+C:\Users\zma20\OneDrive\Рабочий стол\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.Test.resources
+C:\Users\zma20\OneDrive\Рабочий стол\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.Theory.resources
+C:\Users\zma20\OneDrive\Рабочий стол\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.TrainingTest.resources
+C:\Users\zma20\OneDrive\Рабочий стол\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.csproj.GenerateResource.cache
+C:\Users\zma20\OneDrive\Рабочий стол\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.csproj.CoreCompileInputs.cache
+C:\Users\zma20\OneDrive\Рабочий стол\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.exe
+C:\Users\zma20\OneDrive\Рабочий стол\trainer_for_tasks-main\Trainer\Trainer\obj\Debug\Trainer.pdb

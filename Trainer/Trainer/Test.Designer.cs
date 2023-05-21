@@ -48,6 +48,7 @@
             this.NextTask_B.TabIndex = 17;
             this.NextTask_B.Text = "Следующая задача";
             this.NextTask_B.UseVisualStyleBackColor = true;
+            this.NextTask_B.Click += new System.EventHandler(this.NextTask_B_Click);
             // 
             // Back_B
             // 
@@ -84,6 +85,7 @@
             this.Check_B.TabIndex = 11;
             this.Check_B.Text = "Проверить";
             this.Check_B.UseVisualStyleBackColor = true;
+            this.Check_B.Click += new System.EventHandler(this.Check_B_Click);
             // 
             // Task_TB
             // 
